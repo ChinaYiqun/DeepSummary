@@ -1,5 +1,5 @@
 # Shocking! Ultra - Simplified DeepSummary, Unlock a New Way of In - Depth Information Mining with One Click! 😲
-
+![img.png](img.png)
 ## I. Project Introduction
 Are you still struggling with organizing and summarizing a vast amount of information? Do you long for an efficient and convenient tool that can quickly distill complex information into valuable content? Ultra - Simplified DeepSummary is the magical tool designed to solve these problems! 🚀
 
@@ -123,3 +123,4 @@ After running the above code, the system will automatically create a folder name
 - Since it involves network requests and API calls, it may be affected by network conditions and API usage limits. Please ensure a stable network connection and use API resources reasonably.
 
 Come and experience the charm of Ultra - Simplified DeepSummary! Let information processing no longer be cumbersome and start a new chapter of efficient information mining! 🎉
+
